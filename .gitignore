@@ -1,0 +1,27 @@
+data/
+!/ldm/data/
+outputs/
+cache/
+sd/
+__pycache__
+plot_likert
+.vscode
+.DS_Store
+scripts_old/
+run_hidden_pbudget.py
+run_hidden_mix.py
+run_hidden_diffv.py
+run_hidden_upscale.py
+run_eval_pbudget.py
+run_eval_mix.py
+plot.py
+evaluations/FaceImageQuality/insightface/model/
+*.jpg
+*.pdf
+*wikiart*
+# !data/hidden_pretrained/
+*out*
+*.log
+run_a1.py
+run_a3.py
+train_dreambooth_verifierloss.py

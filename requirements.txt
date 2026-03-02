@@ -1,0 +1,32 @@
+diffusers==0.13.1
+triton==2.0.0
+xformers==0.0.16
+transformers==4.26.0
+datasets==2.10.1
+accelerate==0.16.0
+ftfy
+tensorboard
+Jinja2
+tqdm
+torch==1.13.1
+torchvision==0.14.1
+sentence-transformers==2.2.2
+ftfy==6.1.1
+mediapy==1.1.2
+clip-interrogator==0.5.4
+opencv-python==4.9.0.80
+ipywidgets==8.1.2
+omegaconf==2.1.1
+einops==0.3.0
+pytorch-lightning==1.4.2
+torchmetrics==0.6
+taming-transformers
+clip
+pytorch-fid==0.3.0
+scikit-image==0.20.0
+lpips==0.1.4
+jsonlines
+# datasets==2.20.0
+--extra-index-url https://download.pytorch.org/whl/cu116
+
+# pip install -e git+https://github.com/CompVis/taming-transformers.git@master#egg=taming-transformers
